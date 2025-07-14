@@ -1,5 +1,5 @@
 
-### Hello there, I'm Kyle!
+### Hello there, I'm Kyle! ❄️
 
 I'm a web and mobile developer, specializing in frontend technologies
 
