@@ -1,9 +1,9 @@
 
-### Hello there, I'm Kyle! ❄️
+## Hello there, I'm Kyle! ❄️
 
 I'm a web and mobile developer, specializing in frontend technologies
 
-**💻 My Primary Tech Stack**
+### 💻 My Primary Tech Stack
 
 
 | Parameter | Tools & Technologies     
@@ -15,7 +15,7 @@ I'm a web and mobile developer, specializing in frontend technologies
 | `Other` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50" title="Figma"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50" title="NodeJS" />
 
 
-**🔗 Other Links**
+### 🔗 Other Links
 - [Portfolio](https://kyledellatan.me/)
 - [ LinkedIn](https://www.linkedin.com/in/kyledellatan/)
           
