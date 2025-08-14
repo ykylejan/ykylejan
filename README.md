@@ -14,5 +14,7 @@ I'm a web and mobile developer, specializing in frontend technologies
 | `Software` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50" height="50" title="React Native"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50" height="50" title="Flutter"/>
 | `Other` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50" title="Figma"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50" title="NodeJS" />
 
-
+**🔗 Other Links**
+- [Portfolio](https://kyledellatan.me/)
+- [ LinkedIn](https://www.linkedin.com/in/kyledellatan/)
           
