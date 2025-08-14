@@ -1,5 +1,5 @@
 
-### Hello there, I'm Kyle!
+### Hello there, I'm Kyle! ❄️
 
 I'm a web and mobile developer, specializing in frontend technologies
 
@@ -13,6 +13,7 @@ I'm a web and mobile developer, specializing in frontend technologies
 | `Backend/Database` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" title="MySQL"/>
 | `Software` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50" height="50" title="React Native"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50" height="50" title="Flutter"/>
 | `Other` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50" title="Figma"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50" title="NodeJS" />
+
 
 **🔗 Other Links**
 - [Portfolio](https://kyledellatan.me/)
